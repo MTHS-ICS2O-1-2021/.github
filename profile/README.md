@@ -1,12 +1,15 @@
-## Hi there 👋
+# Final Projects ICS2O.1-2021
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [Titus and Curtis](https://mths-ics2o-1-2021.github.io/Final-Project---Titus-and-Curtis) - [Code](https://github.com/MTHS-ICS2O-1-2021/Final-Project---Titus-and-Curtis)
+- [Kaitlyn and Ava](https://mths-ics2o-1-2021.github.io/Final-Project---Kaitlyn-and-Ava) - [Code](https://github.com/MTHS-ICS2O-1-2021/Final-Project---Kaitlyn-and-Ava)
+- [Marco and Aiden](https://mths-ics2o-1-2021.github.io/Final-Project---Marco-and-Aiden) - [Code](https://github.com/MTHS-ICS2O-1-2021/Final-Project---Marco-and-Aiden)
+- [Zaida and Johanna](https://mths-ics2o-1-2021.github.io/Final-Project---Zaida-and-Johanna) - [Code](https://github.com/MTHS-ICS2O-1-2021/Final-Project---Zaida-and-Johanna)
+- [Evgeny-and-Emmanuel](https://mths-ics2o-1-2021.github.io/Final-Project---Evgeny-and-Emmanuel) - [Code](https://github.com/MTHS-ICS2O-1-2021/Final-Project---Evgeny-and-Emmanuel)
+- [Kenny-and-Marshall](https://mths-ics2o-1-2021.github.io/Final-Project---Kenny-and-Marshall) - [Code](https://github.com/MTHS-ICS2O-1-2021/Final-Project---Kenny-and-Marshall)
+- [Batuhan-and-Evan](https://mths-ics2o-1-2021.github.io/Final-Project---Batuhan-and-Evan) - [Code](https://github.com/MTHS-ICS2O-1-2021/Final-Project---Batuhan-and-Evan)
+- [Lucas-and-Brayden](https://mths-ics2o-1-2021.github.io/Final-Project---Lucas-and-Brayden) - [Code](https://github.com/MTHS-ICS2O-1-2021/Final-Project---Lucas-and-Brayden)
+- [Joanne](https://mths-ics2o-1-2021.github.io/Final-Project---Joanne) - [Code](https://github.com/MTHS-ICS2O-1-2021/Final-Project---Joanne)
+- [Cristiano](https://mths-ics2o-1-2021.github.io/Final-Project---Cristiano/) - [Code](https://github.com/MTHS-ICS2O-1-2021/Final-Project---Cristiano)
+- [Venika](https://mths-ics2o-1-2021.github.io/Final-Project---Venika) - [Code](https://github.com/MTHS-ICS2O-1-2021/Final-Project---Venika)
+- [Jaejun](https://mths-ics2o-1-2021.github.io/Final-Project---Jaejun) - [Code](https://github.com/MTHS-ICS2O-1-2021/Final-Project---Jaejun)
+- [Malik](https://mths-ics2o-1-2021.github.io/Final-Project---Malik) - [Code](https://github.com/MTHS-ICS2O-1-2021/Final-Project---Malik)
